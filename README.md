@@ -23,7 +23,7 @@ PENDING
 
 ##Contributing
 
-Bug reports and pull requests are welcome on GitHub at [https://github.com/felipecabargas/git-tryouts](https://github.com/felipecabargas/git-tryouts). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org/) code of conduct.
+Bug reports and pull requests are welcome on GitHub at [https://github.com/felipecabargas/smart-extension-cord](https://github.com/felipecabargas/smart-extension-cord). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org/) code of conduct.
 
 ##License
 
