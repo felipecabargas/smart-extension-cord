@@ -1,8 +1,5 @@
 #Ethernet Controlled, Arduino Powered Extension Cord
 
-> Además de documentación (en la wiki), este repositorio contiene ejemplos de uso además de material descargable que sirve de apoyo al estudio.
-
-
 ##About
 
 ###Info
