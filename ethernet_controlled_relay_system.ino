@@ -56,8 +56,8 @@ void loop()
             client.println();
             client.println("<HTML>");
             client.println("<HEAD>");
-            client.println("<link href='http://cabargas.me/css/foundation.min.css' rel='stylesheet' />");
-            client.println("<link href='http://cabargas.me/css/styles.css' rel='stylesheet' />");
+            client.println("<link href='http://cabargas.com/css/foundation.min.css' rel='stylesheet' />");
+            client.println("<link href='http://cabargas.com/css/styles.css' rel='stylesheet' />");
             client.println("<title>AFCM Automagico v1.0</title>");
             client.println("<center>");
             client.println("</HEAD>");
